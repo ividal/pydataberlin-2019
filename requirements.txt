@@ -3,7 +3,6 @@ pandas
 scikit-learn
 mlflow[extra]
 jupyter
-pipfile
-psycopg2
 tensorflow
 keras
+nbdime
